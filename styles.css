@@ -1,0 +1,28 @@
+body {
+  background-color: black;
+}
+
+.wind {
+  display: flex;
+  align-items: center;
+  height: 100vh;
+}
+
+.wraper {
+  border-radius: 3rem;
+  background-color: rgb(29, 27, 27);
+  height: 9rem;
+  width: 35rem;
+  margin: auto;
+  padding: 2rem;
+  display: flex;
+  justify-content: center;
+}
+
+#clock {
+  font-family: "Montserrat", sans-serif;
+  font-size: 9rem;
+  color: rgb(0, 109, 0);
+  text-align: center;
+  align-self: center;
+}
